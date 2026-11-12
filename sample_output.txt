@@ -1,0 +1,22 @@
+================================
+       WELCOME TO COUNTRY QUIZ
+================================
+Guess the capital or currency!
+Choose A, B, C, or D.
+
+Question 1/10
+What is the capital of Pakistan?
+A. Karachi
+B. Islamabad
+C. Lahore
+D. Peshawar
+
+Your answer: B
+Correct answer!
+
+================================
+           QUIZ RESULT
+================================
+Your Score: 9/10
+Excellent work!
+Thanks for playing Country Quiz!
