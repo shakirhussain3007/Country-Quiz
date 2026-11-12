@@ -1,5 +1,5 @@
 
-# Country Quiz 🌍
+# Country Quiz 
 
 Country Quiz is a Python terminal-based quiz game that uses live country data from the REST Countries API.
 
